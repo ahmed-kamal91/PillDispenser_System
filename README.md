@@ -1,4 +1,4 @@
-# PillDispenser_System
+# PillDispenser System
 Fully self-Design &amp; Programming pill dispenser system, alert patient with medicines in different time in the day if he want
 
 # Abstract
@@ -16,6 +16,3 @@ So, it is ease of use: </br>
   * using touch sensor instead of push button that is quiete harder for finger than touching.
   * ensure awareness of the patient by holding on touch sensor for 2 second to turn off the alert.
   * give flag light by LED to the room where you should take your medicine from.
-  * ثىسعقثsd
-  * ثىسعقث
-سثشقؤاهىل
