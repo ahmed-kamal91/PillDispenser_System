@@ -11,6 +11,10 @@ appointment of each room is specified by the patient. </br>
 # What's special about it?
 we try to eliminate some constraints and limits that make it quiete hard to use. </br>
 So, it is ease of use: </br>
+
+![PilDispeser4_cropped](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ea1fe452-5b10-46b9-8ab1-84bd99bdfdf2)
+
+
   * simple interface view represnting rooms + using friendly symbols and icon.  
   * easy enter & modify room's alert time.
   * easily show All times allocated to rooms (in general) & allocated time for each room separately (in particular).
