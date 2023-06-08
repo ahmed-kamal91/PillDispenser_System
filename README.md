@@ -26,3 +26,8 @@ So, it is ease of use: </br>
   * ensure awareness of the patient by holding on touch sensor for 2 second to turn off the alert.
   * give flag light by LED to the room where you should take your medicine from.
   * there is plastic separators in each room for easy picking different medicine and separate between them.
+
+# For more Details:
+ comming soon, but now, you can check the code yourself
+ https://github.com/ahmed-kamal91/PillDispenser_System/blob/main/v10.ino
+ 
