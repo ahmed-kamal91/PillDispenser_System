@@ -28,6 +28,6 @@ So, it is ease of use: </br>
   * there is plastic separators in each room for easy picking different medicine and separate between them.
 
 # For more Details:
- comming soon, but now, you can check the code yourself
+ comming soon, but now, you can check the code yourself </br>
  https://github.com/ahmed-kamal91/PillDispenser_System/blob/main/v10.ino
  
