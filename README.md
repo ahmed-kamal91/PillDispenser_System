@@ -19,6 +19,9 @@ So, it is ease of use: </br>
   * easy enter & modify room's alert time.
   * easily show All times allocated to rooms (in general) & allocated time for each room separately (in particular).
   * using real time (RTC).
+
+![home1_resized](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/b7713699-e7e5-4e6b-b19c-f07f74fbb3f7)
+
   * using touch sensor instead of push button that is quiete harder for finger than touching.
   * ensure awareness of the patient by holding on touch sensor for 2 second to turn off the alert.
   * give flag light by LED to the room where you should take your medicine from.
