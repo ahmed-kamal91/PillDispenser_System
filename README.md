@@ -6,7 +6,8 @@ Fully self-Design &amp; Programming pill dispenser system, alert patient with me
 * consist of 4 rooms each room take medicine with the same appointement. </br>
 * appointment of each room is specified by the patient. </br>
 
-![editied_enhanced_pilldispesner-removebg](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/954ef111-c037-408e-b7a6-b6f694101d8d)
+![editied_enhanced_pilldispesner-removebg](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/8e9317b4-a6e9-4e1e-bd62-44fb2f88adc4)
+
 
 # What's special about it?
 we try to eliminate some constraints and limits that make it quiete hard to use. </br>
