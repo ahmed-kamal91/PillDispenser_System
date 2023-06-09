@@ -8,6 +8,15 @@ appointment of each room is specified by the patient. </br>
 
 ![cropped_pill_idspenser_left](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/fe820a0a-64b3-47ee-a479-da6f12ca0c08)
 
+# "How to use" component explain:
+
+![lcd4x20_blue](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/48f431cc-9385-49f3-b6b3-c1e508e55373)
+![images (1)](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/242b7363-472b-4209-a0ed-53f7fca65abc)
+![images](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/06116f6f-3682-4cc2-b19c-0d2bd2d7aef5)
+![download](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/4f06dc2a-345b-4e94-8cb9-e40e321b516f)
+![5mm_led_r](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/4dd116df-4675-44c2-9b3e-a2642882a50e)
+
+
 # What's special about it?
 we try to eliminate some constraints and limits that make it quiete hard to use. </br>
 So, it is ease of use: </br>
