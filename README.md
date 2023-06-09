@@ -10,11 +10,11 @@ appointment of each room is specified by the patient. </br>
 
 # "How to use" component explain:
 
-![lcd4x20_blue](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/48f431cc-9385-49f3-b6b3-c1e508e55373)
-![images (1)](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/242b7363-472b-4209-a0ed-53f7fca65abc)
-![images](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/06116f6f-3682-4cc2-b19c-0d2bd2d7aef5)
-![download](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/4f06dc2a-345b-4e94-8cb9-e40e321b516f)
-![5mm_led_r](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/4dd116df-4675-44c2-9b3e-a2642882a50e)
+![lcd4x20_blue](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/043fba3b-78b7-4112-a834-5367a0462676)
+![images](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/225c7aa7-86ae-47e7-8ee7-b52350327827)
+![images (1)](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/89a73bda-70b1-4e3b-a551-2f8a37d81731)
+![5mm_led_r](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/58b447a5-9d4f-4aed-bea8-1bf6c5a77a91)
+
 
 
 # What's special about it?
