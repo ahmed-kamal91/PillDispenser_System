@@ -10,10 +10,45 @@ appointment of each room is specified by the patient. </br>
 
 # "How to use" component explain:
 
-![lcd4x20_blue](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/043fba3b-78b7-4112-a834-5367a0462676)
-![images](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/225c7aa7-86ae-47e7-8ee7-b52350327827)
-![images (1)](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/89a73bda-70b1-4e3b-a551-2f8a37d81731)
-![5mm_led_r](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/58b447a5-9d4f-4aed-bea8-1bf6c5a77a91)
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+    <img src="![lcd4x20_blue](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/317dbb1d-32c5-4aa9-81ad-4acf2a7d2f89)
+" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="![images (1)](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/44d4dbb8-5c8c-456f-8dad-7b3cb87557e6)
+" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="![download](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/dcb86185-a4cd-4696-90d3-e5538626eab6)
+" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
+
 
 
 
