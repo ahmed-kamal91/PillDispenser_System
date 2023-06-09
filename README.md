@@ -12,12 +12,12 @@ Fully self-Design &amp; Programming pill dispenser system, alert patient with me
 
 ![PilDispeser4_cropped](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ea1fe452-5b10-46b9-8ab1-84bd99bdfdf2)
 
-<h2>External   </h2>  <h2>Internal</h2> </br>
-* LCD (user interface)
-* Keypad
-* Touch sensor
-* piezo
-* LED 
+<b>External:</b>               <b>Internal:</b></br>
+- LCD (user interface)          - Arduino Uno </br>
+- Keypad                        - I2C </br>
+- Touch sensor                  - RTC </br>
+- piezo                         - mega Breadboard </br>
+- LED 
 
 # What's special about it?
 we try to eliminate some constraints and limits that make it quiete hard to use. </br>
