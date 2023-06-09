@@ -8,12 +8,22 @@ Fully self-Design &amp; Programming pill dispenser system, alert patient with me
 
 ![editied_enhanced_pilldispesner-removebg](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/09524d7a-2cd0-4119-8dc2-e1f407ab3863)
 
+# Components
+
+![PilDispeser4_cropped](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ea1fe452-5b10-46b9-8ab1-84bd99bdfdf2)
+
+<h2>External   </h2>  <h2>Internal</h2> </br>
+* LCD (user interface)
+* Keypad
+* Touch sensor
+* piezo
+* LED 
 
 # What's special about it?
 we try to eliminate some constraints and limits that make it quiete hard to use. </br>
 So, it is ease of use: </br>
 
-![PilDispeser4_cropped](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ea1fe452-5b10-46b9-8ab1-84bd99bdfdf2)
+
 
 
   * simple interface view represnting rooms + using friendly symbols and icon.  
