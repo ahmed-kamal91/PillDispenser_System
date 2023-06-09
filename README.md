@@ -2,11 +2,12 @@
 Fully self-Design &amp; Programming pill dispenser system, alert patient with medicines in different time in the day if he want
 
 # Abstract
-product deigned for alert patient with the daily time of Medicine. </br>
-consist of 4 rooms each room take medicine with the same appointement. </br>
-appointment of each room is specified by the patient. </br>
+* product deigned for alert patient with the daily time of Medicine. </br>
+* consist of 4 rooms each room take medicine with the same appointement. </br>
+* appointment of each room is specified by the patient. </br>
 
-![cropped_pill_idspenser_left](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/fe820a0a-64b3-47ee-a479-da6f12ca0c08)
+![edited_pilldispenser](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/d80a875a-d996-4137-81ce-232e7a98c7da)
+
 
 # What's special about it?
 we try to eliminate some constraints and limits that make it quiete hard to use. </br>
