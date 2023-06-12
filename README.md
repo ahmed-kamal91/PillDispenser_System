@@ -229,3 +229,39 @@ String get_from_EEPROM(int start_pos, int end_pos)
 
 //------------------------------------------------------------------------------- 
 </pre>
+
+
+Lets return to set_time function:</br>
+A way to back in case you don’t want to set time</br>
+<pre>
+  	//-------back--------------	
+  	if (key == '#')                	
+    	{                      	                        
+      	lcd.clear();                                     	
+      	lcd.print("ok!...");                                  	
+      	delay(500);                             	           
+      	switch(room_num)                                   	
+      	{                                                        
+
+        	case '1': return(String(get_from_EEPROM(0, 5)));      
+        	case '2': return(String(get_from_EEPROM(5, 10)));     
+        	case '3': return(String(get_from_EEPROM(10, 15)));     
+        	case '4': return(String(get_from_EEPROM(15, 20)));   
+      	}                                                      
+    	}
+
+ </pre>
+Condition for breaking while loop:</br>
+<pre>
+	 if(copier.length() == 5)                              
+    	break;
+
+#finally return copier:
+return (copier);
+</pre>
+
+
+Alarm</br>
+
+when it set time (from user  saved in EEPROM) = real time (from RTC module) Arduino gives signals to LEDs and Piezo </br>
+putting the last condition on  if condition touch button if its low () there is alarm else stop alarm</br>
