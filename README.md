@@ -33,9 +33,11 @@ So, it became ease of use: </br>
 
 ![PillDispenser2](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/da95949a-343c-4b2f-b392-8fa347f6a600)
 
-  * simple interface view represnting rooms + using friendly symbols and icon.  
+  * simple interface view represnting rooms 
+  * using friendly symbols and icon.  
   * easyily modify room's alert time.
-  * easily show All times allocated to rooms (in general) & allocated time for each room separately (in particular).
+  * easily show All times allocated to rooms (in general) & </br>
+  allocated time for each room separately (in particular).
   * using real time (RTC).
   * using touch sensor instead of push button that is quiete harder for finger than touching.
   * ensure awareness of the patient by holding on touch sensor for 2 second to turn off the alert.
