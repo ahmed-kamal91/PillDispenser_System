@@ -39,7 +39,8 @@ So, it became ease of use: </br>
   * easily show All times allocated to rooms (in general) & </br>
   allocated time for each room separately (in particular).
   * using real time (RTC).
-  * using touch sensor instead of push button that is quiete harder for finger than touching.
+  * using touch sensor instead of push button that is quiete harder </br> 
+  for finger than touching.
   * ensure awareness of the patient by holding on touch sensor for 2 second to turn off the alert.
   * give flag light by LED to the room where you should take your medicine from.
   * there is plastic separators in each room for easy picking different medicine and separate between them.
