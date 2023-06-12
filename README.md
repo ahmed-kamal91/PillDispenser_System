@@ -5,7 +5,7 @@
 * consist of 4 rooms each room take medicine with the same appointement. </br>
 * appointment of each room is specified by the patient. </br>
 
-![eduited](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/6f66b66b-1ba7-4fa1-91b8-67f11b70d9bf)
+![cropped_pill_idspenser_left](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/42be9d62-cb54-48f7-a8e9-6c5dd1397727)
 
 # Components
 
