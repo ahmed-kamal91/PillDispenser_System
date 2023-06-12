@@ -9,12 +9,10 @@
 
 # Components
 
-![PilDispeser4_cropped](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ea1fe452-5b10-46b9-8ab1-84bd99bdfdf2)
+![components](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ebfe4ba5-587b-4a39-b328-556d0e683ff1)
 
 (LCD) : for user interface, (Keypad) : for interacting with th system, (Touch sensor): for turn off alarm, </br>
-(piezo) : the actual alarm, (LED): to flag the speicifed room. 
-
-![components](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ebfe4ba5-587b-4a39-b328-556d0e683ff1)
+(piezo) : the actual alarm, (LED): to flag the speicifed room. </br>
 
 <pre>
 <b>External:</b>                      <b>Internal:</b></br>
