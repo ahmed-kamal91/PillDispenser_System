@@ -10,14 +10,14 @@
 # Components
 
 ![PilDispeser4_cropped](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ea1fe452-5b10-46b9-8ab1-84bd99bdfdf2)
-
-<b>External:</b>         \t      <b>Internal:</b></br>
-- LCD (user interface)   \t      - Arduino Uno </br>
-- Keypad                 \t      - I2C </br>
-- Touch sensor           \t      - RTC </br>
-- piezo                  \t      - mega Breadboard </br>
+<pre>
+<b>External:</b>               <b>Internal:</b></br>
+- LCD (user interface)         - Arduino Uno </br>
+- Keypad                       - I2C </br>
+- Touch sensor                 - RTC </br>
+- piezo                       - mega Breadboard </br>
 - LED 
-
+</pre>
 # What's special about it?
 we try to eliminate some constraints and limits that make it quiete hard to use. </br>
 So, it is ease of use: </br>
