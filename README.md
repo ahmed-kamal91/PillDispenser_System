@@ -39,7 +39,8 @@ So, it became ease of use: </br>
   allocated time for each room separately (in particular).
   * using friendly symbols and icon.
  
-<left>![home1_resized](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/1a96658b-9c11-4b58-b49a-004c1c3a0084)</left>
+<left>![home1_resized](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/e705d143-187e-4a85-bbab-2c5ce6692f04)
+</left>
 
   * using touch sensor instead of push button that is quiete harder </br> 
   for finger than touching.
