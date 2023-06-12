@@ -92,7 +92,7 @@ Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COLUMN_
 </br>
 ![chart-3](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/88c58d96-2a75-42e0-94a1-057ac4a6ecd4)
 
-<h2>__Functions______:<h2>
+<h2>__Functions______:</h2>
 
 Core of the system:</br>
 set_time function:</br>
