@@ -38,7 +38,7 @@ So, it became ease of use: </br>
   * easily show All times allocated to rooms (in general) & </br>
   allocated time for each room separately (in particular).
   * using friendly symbols and icon.
-  ![home1](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/05d7bb80-9d89-4eb5-ae08-04aa3de6f69d)
+![home1_resized](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/cc8de07c-76e5-4afd-b7f5-b6bbb69b9bd3)
   * using touch sensor instead of push button that is quiete harder </br> 
   for finger than touching.
   * ensure awareness of the patient </br> by holding on touch sensor for 2 second to turn off the alert.
