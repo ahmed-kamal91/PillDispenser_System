@@ -56,7 +56,9 @@ So, it became ease of use: </br>
  notice: THIS CHART EXPLAIN CODE FOR ONE ROOM:- </br>
 all system depends on the equality of the alarm and real time so i began with if else statement check the equality </br>
 most part of the system go through the un-equality  of  the alarm and real time and the rest of code shows alarm behavior. </br>
-![chart-1](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/00b21e7d-153f-45d1-97dd-44006361cd58)
+
+![chart-1](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/c0954216-c840-469f-b9f5-d9b3d45834f4)
+
 
 <h2>__libraries_______</h2>
 
