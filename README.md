@@ -11,7 +11,7 @@
 
 ![PilDispeser4_cropped](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ea1fe452-5b10-46b9-8ab1-84bd99bdfdf2)
 
-![WhatsApp Image 2022-09-15 at 1 49 24 AM](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/8b0fc9e8-6e2b-4632-8b96-7477d7477233)
+![components](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ebfe4ba5-587b-4a39-b328-556d0e683ff1)
 
 <pre>
 <b>External:</b>                      <b>Internal:</b></br>
