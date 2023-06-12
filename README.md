@@ -89,8 +89,77 @@ Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COLUMN_
 #include <DS1307RTC.h> </br>
  
 ![chart-2](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/33581b83-099e-445b-a394-d0115bcc4e68)
-</br
+</br>
 ![chart-3](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/88c58d96-2a75-42e0-94a1-057ac4a6ecd4)
->
+
+<h2>__Functions______:<h2>
+
+Core of the system:
+set_time function:
+First we will build what will appear in lcd (Interface) :
+Using : lcd.clear(), lcd.print(), lcd.setCursor():
+<pre>
+//------interface-------                                                    
+
+  lcd.clear();                                                             
+  lcd.setCursor(0,1);                                                       
+  lcd.print(" *-del	#-back");                                        	
+  lcd.setCursor(0,0);                                                       
+  lcd.print("Time: ");                                                      
+  lcd.setCursor(8,0);                                                       
+  lcd.print(":");                                                           
+  lcd.setCursor(6,0);                                                       
+</pre>
+create variable to save the  inserted time later:</br>
+<pre>
+String copier;
+</pre>
+Making a way to wait the user with our rules(function):
+ <pre>
+  	char key = ;
+</pre>
+  	//------wait-input--------- 	
+
+  	key = NO_KEY; 
+
+  	while(key == NO_KEY)
+
+  	{key = keypad.getKey();}
+
+ 	//-----------------------------
+
+We want to insert numbers from keypad for:
+
+1-add on copier variable.
+
+2-appear on LCD in the right position.
+
+So:
+
+          	lcd.print(key);
+
+          	copier = copier + key;
+
+inserting number should jump after “:” symbol so we will use length of variable  copier to do that
+
+ 
+
+      	if(copier.length() != 2) {
+
+          	lcd.print(key);
+
+          	copier = copier + key;
+
+        	}
+
+      	else {  
+
+          	lcd.setCursor(9,0);
+
+          	lcd.print(key);
+
+          	copier = copier + ":" + key;   }
+
+ before we continue we have to discuss EEPROM first
 
 
