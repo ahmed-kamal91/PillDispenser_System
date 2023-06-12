@@ -163,4 +163,68 @@ inserting number should jump after “:” symbol so we will use length of varia
 </pre>
  before we continue we have to discuss EEPROM first </br>
 
+![chart-4](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/a30139de-3dff-403c-8513-0495fd36e354)
 
+2- set_in_EEPROM()
+
+Simply, EEPROM is a non-volatile memory has 1024 place to save the data.</br>
+Each place take one char, so we have 4 rooms every room has alarm time in string dtype has 5</br> chars, so we want 20 places for all rooms in EEPROM.</br>
+This function made to save time alarm for each room character by character.</br>
+
+
+<pre
+//-----------set-the-time-in-EEPROM---(function)-------------------------------
+
+void set_in_EEPROM(int start_pos, int end_pos , int extra_pos, String times)
+
+{                                                                           
+
+  for(int i = start_pos ; i < end_pos ; i++)                         	    
+
+  {                                                                         
+
+	Serial.print(times[i]);                                                 
+
+	EEPROM.update(i, times[i - extra_pos]);                                 
+
+  }                                                                         
+
+}                                                                           
+
+//-----------------------------------------------------------------------------
+</pre>
+We will notice that ( times[i - extra_pos]  ):</br>
+
+Numbers range for EEPROM change while indices of variable not so we have to subtract from start</br> point number to begin range of numbers from 0 as indices does for any variable.</br>
+
+
+3- get_from_EEPROM function </br>
+
+Almost the same idea of set_in_EEPROM function</br>
+<pre>
+//--------------getting-epprom-time----------------------------------------------
+
+String get_from_EEPROM(int start_pos, int end_pos)                       	
+
+{                                                                             
+
+  String tim_back;                                                            
+
+  for(int i = start_pos ; i < end_pos ; i++)                               	
+
+  {                                                                           
+
+	char letter = EEPROM.read(i);                                          	
+
+	tim_back = tim_back + letter;                                              
+
+  }                                                                          
+
+                                                                             
+
+  return(tim_back);                       	                                 
+
+}                                                                             
+
+//------------------------------------------------------------------------------- 
+</pre>
