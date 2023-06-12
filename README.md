@@ -14,7 +14,8 @@
 * (piezo) : the actual alarm
 *  (LED): to flag the speicifed room. </br>
 
-![components](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/ebfe4ba5-587b-4a39-b328-556d0e683ff1)
+![gif_comonnrt](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/bbc2bbfb-2587-4408-8b2b-72c167002557)
+
 
 <pre>
 <b>External:</b>                      <b>Internal:</b></br>
