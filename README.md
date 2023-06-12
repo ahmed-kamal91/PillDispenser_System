@@ -1,5 +1,5 @@
 # <center> PillDispenser</center>
-* Fully self-Programming pill dispenser system (appear in LCD and contanct using keypad)
+* Fully self-Programming pill dispenser system </br>
 * product deigned for alert patient with the daily time of Medicine. </br>
 * consist of 4 rooms each room take medicine with the same appointement. </br>
 * appointment of each room is specified by the patient. </br>
