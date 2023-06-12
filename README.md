@@ -60,12 +60,12 @@ most part of the system go through the un-equality  of  the alarm and real time 
 
 <h2>__libraries_______</h2>
 
-<b>1-LCD:</b>
+<b>1-LCD:</b> </br>
 #include<LiquidCrystal_I2C.h> </br>
 #include<Wire.h> </br>
 LiquidCrystal_I2C lcd(0x27, 16, 2); </br>
 
-<b>2-Keypad:</b>
+<b>2-Keypad:</b> </br>
 #include<Keypad.h> </br>
 const int ROW_NUM = 4; //four rows</br>
 const int COLUMN_NUM = 3; //three columns </br>
@@ -86,3 +86,4 @@ Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COLUMN_
 #include <TimeLib.h> </br>
 #include <DS1307RTC.h> </br>
  
+![chart-2](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/33581b83-099e-445b-a394-d0115bcc4e68)
