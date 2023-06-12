@@ -58,4 +58,31 @@ all system depends on the equality of the alarm and real time so i began with if
 most part of the system go through the un-equality  of  the alarm and real time and the rest of code shows alarm behavior. </br>
 ![chart-1](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/00b21e7d-153f-45d1-97dd-44006361cd58)
 
+__libraries____________________________________
+
+<b>1-LCD:</b>
+#include<LiquidCrystal_I2C.h>
+#include<Wire.h>
+LiquidCrystal_I2C lcd(0x27, 16, 2);
+
+<b>2-Keypad:</b>
+#include<Keypad.h>
+const int ROW_NUM = 4; //four rows
+const int COLUMN_NUM = 3; //three columns
+char keys[ROW_NUM][COLUMN_NUM] = {
+  {'1','2','3'},
+  {'4','5','6'},
+  {'7','8','9'},
+  {'*','0','#'}
+};
+byte pin_rows[ROW_NUM] = {8, 7, 6, 5};
+byte pin_column[COLUMN_NUM] = {4, 3, 2};
+Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COLUMN_NUM );
+
+<b>3-EEPROM:</b>
+#include<EEPROM.h>
+
+<b>4-RTC:</b>
+#include <TimeLib.h>
+#include <DS1307RTC.h>
  
