@@ -24,19 +24,19 @@
 - piezo                        - mega Breadboard </br>
 - LED 
 </pre>
+
+
+
 # What's special about it?
 we try to eliminate some constraints and limits that make it quiete hard to use. </br>
-So, it is ease of use: </br>
+So, it became ease of use: </br>
 
 ![PillDispenser2](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/da95949a-343c-4b2f-b392-8fa347f6a600)
 
   * simple interface view represnting rooms + using friendly symbols and icon.  
-  * easy enter & modify room's alert time.
+  * easyily modify room's alert time.
   * easily show All times allocated to rooms (in general) & allocated time for each room separately (in particular).
   * using real time (RTC).
-
-![home1_resized](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/b7713699-e7e5-4e6b-b19c-f07f74fbb3f7)
-
   * using touch sensor instead of push button that is quiete harder for finger than touching.
   * ensure awareness of the patient by holding on touch sensor for 2 second to turn off the alert.
   * give flag light by LED to the room where you should take your medicine from.
