@@ -89,3 +89,8 @@ Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COLUMN_
 #include <DS1307RTC.h> </br>
  
 ![chart-2](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/33581b83-099e-445b-a394-d0115bcc4e68)
+</br
+![chart-3](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/88c58d96-2a75-42e0-94a1-057ac4a6ecd4)
+>
+
+
