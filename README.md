@@ -28,7 +28,7 @@
 we try to eliminate some constraints and limits that make it quiete hard to use. </br>
 So, it is ease of use: </br>
 
-![PillDispenser](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/c3417972-965b-4922-86ee-bf53f1d83174)
+![PillDispenser](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/aed8e1d4-397c-4357-bb99-a6f5796827fc)
 
   * simple interface view represnting rooms + using friendly symbols and icon.  
   * easy enter & modify room's alert time.
