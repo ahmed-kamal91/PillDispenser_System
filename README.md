@@ -52,37 +52,37 @@ So, it became ease of use: </br>
  you can check the code yourself </br>
  https://github.com/ahmed-kamal91/PillDispenser_System/blob/main/v10.ino
  
- __Over View____________________________________
+ <h2>__Over View______</h2>
  notice: THIS CHART EXPLAIN CODE FOR ONE ROOM:- </br>
 all system depends on the equality of the alarm and real time so i began with if else statement check the equality </br>
 most part of the system go through the un-equality  of  the alarm and real time and the rest of code shows alarm behavior. </br>
 ![chart-1](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/00b21e7d-153f-45d1-97dd-44006361cd58)
 
-__libraries____________________________________
+<h2>__libraries_______</h2>
 
 <b>1-LCD:</b>
-#include<LiquidCrystal_I2C.h>
-#include<Wire.h>
-LiquidCrystal_I2C lcd(0x27, 16, 2);
+#include<LiquidCrystal_I2C.h> </br>
+#include<Wire.h> </br>
+LiquidCrystal_I2C lcd(0x27, 16, 2); </br>
 
 <b>2-Keypad:</b>
-#include<Keypad.h>
-const int ROW_NUM = 4; //four rows
-const int COLUMN_NUM = 3; //three columns
-char keys[ROW_NUM][COLUMN_NUM] = {
-  {'1','2','3'},
-  {'4','5','6'},
-  {'7','8','9'},
-  {'*','0','#'}
+#include<Keypad.h> </br>
+const int ROW_NUM = 4; //four rows</br>
+const int COLUMN_NUM = 3; //three columns </br>
+char keys[ROW_NUM][COLUMN_NUM] = { </br>
+  {'1','2','3'}, </br>
+  {'4','5','6'}, </br>
+  {'7','8','9'}, </br>
+  {'*','0','#'}  </br>
 };
-byte pin_rows[ROW_NUM] = {8, 7, 6, 5};
-byte pin_column[COLUMN_NUM] = {4, 3, 2};
-Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COLUMN_NUM );
+byte pin_rows[ROW_NUM] = {8, 7, 6, 5}; </br>
+byte pin_column[COLUMN_NUM] = {4, 3, 2}; </br>
+Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COLUMN_NUM ); </br>
 
-<b>3-EEPROM:</b>
-#include<EEPROM.h>
+<b>3-EEPROM:</b> </br>
+#include<EEPROM.h> </br>
 
-<b>4-RTC:</b>
-#include <TimeLib.h>
-#include <DS1307RTC.h>
+<b>4-RTC:</b> </br>
+#include <TimeLib.h> </br>
+#include <DS1307RTC.h> </br>
  
