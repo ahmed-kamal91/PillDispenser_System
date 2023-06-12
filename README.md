@@ -18,10 +18,10 @@
 
 <pre>
 <b>External:</b>                      <b>Internal:</b></br>
-- LCD          - Arduino Uno </br>
+- LCD                          - Arduino Uno </br>
 - Keypad                       - I2C </br>
 - Touch sensor                 - RTC </br>
-- piezo                       - mega Breadboard </br>
+- piezo                        - mega Breadboard </br>
 - LED 
 </pre>
 # What's special about it?
