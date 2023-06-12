@@ -1,7 +1,6 @@
-# PillDispenser System
-Fully self-Design &amp; Programming pill dispenser system, alert patient with medicines in different time in the day if he want
-
-# Abstract
+# <center> PillDispenser</center>
+# about product
+* Fully self-Programming pill dispenser system (appear in LCD and contanct using keypad)
 * product deigned for alert patient with the daily time of Medicine. </br>
 * consist of 4 rooms each room take medicine with the same appointement. </br>
 * appointment of each room is specified by the patient. </br>
