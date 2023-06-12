@@ -94,10 +94,10 @@ Keypad keypad = Keypad( makeKeymap(keys), pin_rows, pin_column, ROW_NUM, COLUMN_
 
 <h2>__Functions______:<h2>
 
-Core of the system:
-set_time function:
-First we will build what will appear in lcd (Interface) :
-Using : lcd.clear(), lcd.print(), lcd.setCursor():
+Core of the system:</br>
+set_time function:</br>
+First we will build what will appear in lcd (Interface) :</br>
+Using : lcd.clear(), lcd.print(), lcd.setCursor():</br>
 <pre>
 //------interface-------                                                    
 
@@ -114,10 +114,10 @@ create variable to save the  inserted time later:</br>
 <pre>
 String copier;
 </pre>
-Making a way to wait the user with our rules(function):
+Making a way to wait the user with our rules(function):</br>
  <pre>
   	char key = ;
-</pre>
+
   	//------wait-input--------- 	
 
   	key = NO_KEY; 
@@ -127,23 +127,23 @@ Making a way to wait the user with our rules(function):
   	{key = keypad.getKey();}
 
  	//-----------------------------
+</pre>
+We want to insert numbers from keypad for:</br>
 
-We want to insert numbers from keypad for:
+1-add on copier variable.</br>
 
-1-add on copier variable.
+2-appear on LCD in the right position.</br>
 
-2-appear on LCD in the right position.
-
-So:
+So:</br>
+<pre>
 
           	lcd.print(key);
 
           	copier = copier + key;
+</pre>
+inserting number should jump after “:” symbol so we will use length of variable  copier to do that</br>
 
-inserting number should jump after “:” symbol so we will use length of variable  copier to do that
-
- 
-
+<pre>
       	if(copier.length() != 2) {
 
           	lcd.print(key);
@@ -160,6 +160,7 @@ inserting number should jump after “:” symbol so we will use length of varia
 
           	copier = copier + ":" + key;   }
 
- before we continue we have to discuss EEPROM first
+</pre>
+ before we continue we have to discuss EEPROM first </br>
 
 
