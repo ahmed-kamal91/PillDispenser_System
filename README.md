@@ -172,7 +172,7 @@ Each place take one char, so we have 4 rooms every room has alarm time in string
 This function made to save time alarm for each room character by character.</br>
 
 
-<pre
+<pre>
 //-----------set-the-time-in-EEPROM---(function)-------------------------------
 
 void set_in_EEPROM(int start_pos, int end_pos , int extra_pos, String times)
@@ -192,7 +192,8 @@ void set_in_EEPROM(int start_pos, int end_pos , int extra_pos, String times)
 }                                                                           
 
 //-----------------------------------------------------------------------------
-</pre>
+</pre> </br>
+
 We will notice that ( times[i - extra_pos]  ):</br>
 
 Numbers range for EEPROM change while indices of variable not so we have to subtract from start</br> point number to begin range of numbers from 0 as indices does for any variable.</br>
