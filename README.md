@@ -48,7 +48,14 @@ So, it became ease of use: </br>
   * give flag light by LED to the room where you should take your medicine from.
   * there is plastic separators in each room for easy picking different medicine and separate between them.
 
-# For more Details:
- comming soon, but now, you can check the code yourself </br>
+# Code explanation:
+ you can check the code yourself </br>
  https://github.com/ahmed-kamal91/PillDispenser_System/blob/main/v10.ino
+ 
+ __Over View____________________________________
+ notice: THIS CHART EXPLAIN CODE FOR ONE ROOM:- </br>
+all system depends on the equality of the alarm and real time so i began with if else statement check the equality </br>
+most part of the system go through the un-equality  of  the alarm and real time and the rest of code shows alarm behavior. </br>
+![chart-1](https://github.com/ahmed-kamal91/PillDispenser_System/assets/91970695/00b21e7d-153f-45d1-97dd-44006361cd58)
+
  
